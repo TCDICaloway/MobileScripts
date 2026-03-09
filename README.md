@@ -1,4 +1,4 @@
-# MobileScripts
+# iOSandGPS
 
 iOSandGPS.py
 
